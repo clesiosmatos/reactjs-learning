@@ -6,12 +6,24 @@ import ListRendering from './components/ListRendering'
 import FragmentsDemo from './components/FragmentsDemo'
 import { UseFetchDemo, UseLocalStorageDemo } from './components/CustomHooks'
 import { CounterDemo, SignupFormDemo, ShoppingCartDemo } from './components/UseReducer'
+import { UseMemoDemo, UseCallbackDemo } from './components/UseMemoCallback'
 import './App.css'
 
 function App() {
   return (
     <div className="app">
-      <h1>Lesson 10 — useReducer</h1>
+      <h1>Lesson 11 — useMemo / useCallback / React.memo</h1>
+
+      <Section title="useMemo — cache an expensive computed value">
+        <UseMemoDemo />
+      </Section>
+
+      <Section title="useCallback + React.memo — stable function references">
+        <UseCallbackDemo />
+      </Section>
+
+      <hr style={{ margin: '2rem 0', borderColor: '#ddd' }} />
+      <h1 style={{ fontSize: '1.2rem', color: '#888' }}>Lesson 10 — useReducer (prior)</h1>
 
       <Section title="1. Basic mechanics — reducer, dispatch, action">
         <CounterDemo />
