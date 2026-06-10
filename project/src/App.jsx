@@ -8,12 +8,28 @@ import { UseFetchDemo, UseLocalStorageDemo } from './components/CustomHooks'
 import { CounterDemo, SignupFormDemo, ShoppingCartDemo } from './components/UseReducer'
 import { UseMemoDemo, UseCallbackDemo } from './components/UseMemoCallback'
 import { UseRefDomDemo, UseRefMutableDemo, UseRefStopwatchDemo } from './components/UseRef'
+import { SplitCounterDemo, LocalVsLiftedDemo, LowestAncestorDemo } from './components/LiftingStateUp'
 import './App.css'
 
 function App() {
   return (
     <div className="app">
-      <h1>Lesson 14 — useRef</h1>
+      <h1>Lesson 5 — Where State Lives (Lifting State Up)</h1>
+
+      <Section title="1. Core pattern — parent owns state, children get props">
+        <SplitCounterDemo />
+      </Section>
+
+      <Section title="2. Local state vs lifted state — sibling sync problem">
+        <LocalVsLiftedDemo />
+      </Section>
+
+      <Section title="3. Lowest common ancestor rule — search filter">
+        <LowestAncestorDemo />
+      </Section>
+
+      <hr style={{ margin: '2rem 0', borderColor: '#ddd' }} />
+      <h1 style={{ fontSize: '1.2rem', color: '#888' }}>Lesson 14 — useRef (prior)</h1>
 
       <Section title="1. DOM access — focus, scroll, and native APIs">
         <UseRefDomDemo />
