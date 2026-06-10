@@ -7,12 +7,28 @@ import FragmentsDemo from './components/FragmentsDemo'
 import { UseFetchDemo, UseLocalStorageDemo } from './components/CustomHooks'
 import { CounterDemo, SignupFormDemo, ShoppingCartDemo } from './components/UseReducer'
 import { UseMemoDemo, UseCallbackDemo } from './components/UseMemoCallback'
+import { UseRefDomDemo, UseRefMutableDemo, UseRefStopwatchDemo } from './components/UseRef'
 import './App.css'
 
 function App() {
   return (
     <div className="app">
-      <h1>Lesson 11 — useMemo / useCallback / React.memo</h1>
+      <h1>Lesson 14 — useRef</h1>
+
+      <Section title="1. DOM access — focus, scroll, and native APIs">
+        <UseRefDomDemo />
+      </Section>
+
+      <Section title="2. Mutable value without re-render — ref vs state">
+        <UseRefMutableDemo />
+      </Section>
+
+      <Section title="3. Stopwatch — interval ID + stale-closure pattern">
+        <UseRefStopwatchDemo />
+      </Section>
+
+      <hr style={{ margin: '2rem 0', borderColor: '#ddd' }} />
+      <h1 style={{ fontSize: '1.2rem', color: '#888' }}>Lesson 11 — useMemo / useCallback / React.memo (prior)</h1>
 
       <Section title="useMemo — cache an expensive computed value">
         <UseMemoDemo />
