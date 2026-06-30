@@ -1,8 +1,8 @@
 # React — Senior Developer Topics
 
 ## Core Concepts
-- JSX syntax and transpilation
-- Components: function vs class (legacy)
+[001] 2026-06-29 JSX syntax and transpilation - https://chatgpt.com/c/6a42719d-2808-83e9-b2ad-35a1d4abec3e
+[002] 2026-06-30 Components: function vs class (legacy) -https://chatgpt.com/c/6a439cff-ef2c-83e9-aa74-5883f9cf7b14
 - Props and prop types / TypeScript interfaces
 - State and immutability
 - Controlled vs uncontrolled components
