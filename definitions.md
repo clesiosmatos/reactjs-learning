@@ -5,7 +5,7 @@
 [002] 2026-06-30 Components: function vs class (legacy) -https://chatgpt.com/c/6a439cff-ef2c-83e9-aa74-5883f9cf7b14
 [003] 2026-06-30 Props and prop types / TypeScript interfaces - https://chatgpt.com/c/6a43d0a4-d084-83e9-9840-b299572debb1
 [004] 2026-07-01 State and immutability - https://chatgpt.com/c/6a4508a7-8518-83e9-91f0-cbb8dfc8bada
-- Controlled vs uncontrolled components
+[005] 2026-07-02 Controlled vs uncontrolled components - https://chatgpt.com/c/6a46a12f-6258-83e9-ac4f-c1353775722e
 - Component lifecycle (mount, update, unmount)
 - Keys and reconciliation algorithm (diffing)
 - Synthetic events and event delegation
