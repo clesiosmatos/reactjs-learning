@@ -7,7 +7,7 @@
 [004] 2026-07-01 State and immutability - https://chatgpt.com/c/6a4508a7-8518-83e9-91f0-cbb8dfc8bada
 [005] 2026-07-02 Controlled vs uncontrolled components - https://chatgpt.com/c/6a46a12f-6258-83e9-ac4f-c1353775722e
 [006] 2026-07-03 Component lifecycle (mount, update, unmount) - https://chatgpt.com/c/6a47825d-a364-83e9-aaa1-2d359bf425fd
-- Keys and reconciliation algorithm (diffing)
+[007] 2026-07-06 Keys and reconciliation algorithm (diffing) - https://chatgpt.com/c/6a4bbc3b-5e3c-83e9-be76-dc11e3cdb312
 - Synthetic events and event delegation
 - Portals
 - Fragments (`<>...</>`)
