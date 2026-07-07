@@ -8,7 +8,7 @@
 [005] 2026-07-02 Controlled vs uncontrolled components - https://chatgpt.com/c/6a46a12f-6258-83e9-ac4f-c1353775722e
 [006] 2026-07-03 Component lifecycle (mount, update, unmount) - https://chatgpt.com/c/6a47825d-a364-83e9-aaa1-2d359bf425fd
 [007] 2026-07-06 Keys and reconciliation algorithm (diffing) - https://chatgpt.com/c/6a4bbc3b-5e3c-83e9-be76-dc11e3cdb312
-- Synthetic events and event delegation
+[008] 2026-07-07 Synthetic events and event delegation - https://chatgpt.com/c/6a4cd540-4d34-83e9-ae22-4a47b47d9c11
 - Portals
 - Fragments (`<>...</>`)
 - Error Boundaries
