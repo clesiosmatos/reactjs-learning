@@ -9,7 +9,7 @@
 [006] 2026-07-03 Component lifecycle (mount, update, unmount) - https://chatgpt.com/c/6a47825d-a364-83e9-aaa1-2d359bf425fd
 [007] 2026-07-06 Keys and reconciliation algorithm (diffing) - https://chatgpt.com/c/6a4bbc3b-5e3c-83e9-be76-dc11e3cdb312
 [008] 2026-07-07 Synthetic events and event delegation - https://chatgpt.com/c/6a4cd540-4d34-83e9-ae22-4a47b47d9c11
-- Portals
+[009] 2026-07-08 Portals - https://chatgpt.com/c/6a4e4955-6c38-83e9-a89e-6ea1e5f04859
 - Fragments (`<>...</>`)
 - Error Boundaries
 
