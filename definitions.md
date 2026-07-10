@@ -11,7 +11,7 @@
 [008] 2026-07-07 Synthetic events and event delegation - https://chatgpt.com/c/6a4cd540-4d34-83e9-ae22-4a47b47d9c11
 [009] 2026-07-08 Portals - https://chatgpt.com/c/6a4e4955-6c38-83e9-a89e-6ea1e5f04859
 [010] 2026-07-09 Fragments (`<>...</>`) - https://chatgpt.com/c/6a4f97fc-2fc0-83e9-bd5a-598ae0977a86
-- Error Boundaries
+[011] 2026-07-10 Error Boundaries - https://chatgpt.com/c/6a50eaec-ffa8-83e9-85b7-2fa9194d890f
 
 ## Hooks
 - `useState` — local state management
