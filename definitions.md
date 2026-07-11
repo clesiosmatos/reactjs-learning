@@ -14,7 +14,7 @@
 [011] 2026-07-10 Error Boundaries - https://chatgpt.com/c/6a50eaec-ffa8-83e9-85b7-2fa9194d890f
 
 ## Hooks
-- `useState` — local state management
+[012] 2026-07-11  `useState` — local state management - https://chatgpt.com/c/6a5248b9-1590-83e9-bdd5-63a24c562760
 - `useEffect` — side effects and cleanup
 - `useLayoutEffect` — synchronous DOM mutations
 - `useContext` — consuming context without HOCs
