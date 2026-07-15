@@ -14,10 +14,10 @@
 [011] 2026-07-10 Error Boundaries - https://chatgpt.com/c/6a50eaec-ffa8-83e9-85b7-2fa9194d890f
 
 ## Hooks
-[012] 2026-07-11  `useState` — local state management - https://chatgpt.com/c/6a5248b9-1590-83e9-bdd5-63a24c562760
-[013] 2026-07-13  `useEffect` — side effects and cleanup - https://chatgpt.com/c/6a54e94d-15d4-83e9-ab31-a37a5c74fa4b
-[014] 2026-07-14  `useLayoutEffect` — synchronous DOM mutations - https://chatgpt.com/c/6a563458-a27c-83e9-8c10-b590b34c3321
-- `useContext` — consuming context without HOCs
+[012] 2026-07-11 `useState` — local state management - https://chatgpt.com/c/6a5248b9-1590-83e9-bdd5-63a24c562760
+[013] 2026-07-13 `useEffect` — side effects and cleanup - https://chatgpt.com/c/6a54e94d-15d4-83e9-ab31-a37a5c74fa4b
+[014] 2026-07-14 `useLayoutEffect` — synchronous DOM mutations - https://chatgpt.com/c/6a563458-a27c-83e9-8c10-b590b34c3321
+[015] 2026-07-15 `useContext` — consuming context without HOCs - https://chatgpt.com/c/6a577bd0-0764-83e9-a63f-8dd7b03aadb6
 - `useRef` — mutable refs, DOM access, preserving values across renders
 - `useMemo` — memoizing expensive computations
 - `useCallback` — stable function references
