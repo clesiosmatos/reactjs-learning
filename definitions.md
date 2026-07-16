@@ -18,7 +18,7 @@
 [013] 2026-07-13 `useEffect` — side effects and cleanup - https://chatgpt.com/c/6a54e94d-15d4-83e9-ab31-a37a5c74fa4b
 [014] 2026-07-14 `useLayoutEffect` — synchronous DOM mutations - https://chatgpt.com/c/6a563458-a27c-83e9-8c10-b590b34c3321
 [015] 2026-07-15 `useContext` — consuming context without HOCs - https://chatgpt.com/c/6a577bd0-0764-83e9-a63f-8dd7b03aadb6exot
-- `useRef` — mutable refs, DOM access, preserving values across renders
+[016] 2026-07-16 `useRef` — mutable refs, DOM access, preserving values across renders - https://chatgpt.com/c/6a58d677-6e40-83e9-80b0-ef4b8d2a1d33
 - `useMemo` — memoizing expensive computations
 - `useCallback` — stable function references
 - `useReducer` — complex state logic
