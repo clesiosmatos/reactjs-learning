@@ -19,7 +19,7 @@
 [014] 2026-07-14 `useLayoutEffect` — synchronous DOM mutations - https://chatgpt.com/c/6a563458-a27c-83e9-8c10-b590b34c3321
 [015] 2026-07-15 `useContext` — consuming context without HOCs - https://chatgpt.com/c/6a577bd0-0764-83e9-a63f-8dd7b03aadb6exot
 [016] 2026-07-16 `useRef` — mutable refs, DOM access, preserving values across renders - https://chatgpt.com/c/6a58d677-6e40-83e9-80b0-ef4b8d2a1d33
-- `useMemo` — memoizing expensive computations
+[017] 2026-07-17 `useMemo` — memoizing expensive computations - https://chatgpt.com/c/6a5acda1-3494-83e9-a79d-2c23b872dd24
 - `useCallback` — stable function references
 - `useReducer` — complex state logic
 - `useId` — stable unique IDs for accessibility
