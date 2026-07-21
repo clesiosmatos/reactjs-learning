@@ -21,7 +21,7 @@
 [016] 2026-07-16 `useRef` — mutable refs, DOM access, preserving values across renders - https://chatgpt.com/c/6a58d677-6e40-83e9-80b0-ef4b8d2a1d33
 [017] 2026-07-17 `useMemo` — memoizing expensive computations - https://chatgpt.com/c/6a5acda1-3494-83e9-a79d-2c23b872dd24
 [018] 2026-07-20 `useCallback` — stable function references - https://chatgpt.com/c/6a5e1b24-c374-83e9-b840-b73232c4266b
-- `useReducer` — complex state logic
+[019] 2026-07-21 `useReducer` — complex state logic - https://chatgpt.com/c/6a5f70b3-1370-83e9-89a7-538fcdcf5f50
 - `useId` — stable unique IDs for accessibility
 - `useTransition` / `useDeferredValue` — concurrent rendering
 - `useImperativeHandle` — customizing ref exposure
