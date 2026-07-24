@@ -24,7 +24,7 @@
 [019] 2026-07-21 `useReducer` — complex state logic - https://chatgpt.com/c/6a5f70b3-1370-83e9-89a7-538fcdcf5f50
 [020] 2026-07-22 `useId` — stable unique IDs for accessibility - https://chatgpt.com/c/6a60c198-e764-83e9-b12a-463c654228e9
 [021] 2026-07-23 `useTransition` / `useDeferredValue` — concurrent rendering - https://chatgpt.com/c/6a621237-f5f0-83e9-ac10-c54264486252
-- `useImperativeHandle` — customizing ref exposure
+[022] 2026-07-24 `useImperativeHandle` — customizing ref exposure - https://chatgpt.com/c/6a636782-987c-83e9-b854-37b0752a93a4
 - `useDebugValue` — custom hook debugging
 - Custom hooks — composing and sharing stateful logic
 
