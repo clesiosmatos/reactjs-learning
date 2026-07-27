@@ -26,7 +26,7 @@
 [021] 2026-07-23 `useTransition` / `useDeferredValue` — concurrent rendering - https://chatgpt.com/c/6a621237-f5f0-83e9-ac10-c54264486252
 [022] 2026-07-24 `useImperativeHandle` — customizing ref exposure - https://chatgpt.com/c/6a636782-987c-83e9-b854-37b0752a93a4
 [023] 2026-07-26 `useDebugValue` — custom hook debugging - https://chatgpt.com/c/6a6644fd-d340-83e9-8373-2242e885d45c
-- Custom hooks — composing and sharing stateful logic
+[024] 2026-07-27 Custom hooks — composing and sharing stateful logic - https://chatgpt.com/c/6a6730db-6dac-83e9-a1c5-2c294324e88e
 
 ## Performance Optimization
 - `React.memo` — preventing unnecessary re-renders
