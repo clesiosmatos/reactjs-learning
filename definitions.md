@@ -29,7 +29,7 @@
 [024] 2026-07-27 Custom hooks — composing and sharing stateful logic - https://chatgpt.com/c/6a6730db-6dac-83e9-a1c5-2c294324e88e
 
 ## Performance Optimization
-- `React.memo` — preventing unnecessary re-renders
+[025] 2026-07-28 `React.memo` — preventing unnecessary re-renders - https://chatgpt.com/c/6a68a752-e79c-83e9-a142-4641bb32fe56
 - `useMemo` and `useCallback` trade-offs
 - Lazy loading with `React.lazy` and `Suspense`
 - Code splitting at the route and component level
