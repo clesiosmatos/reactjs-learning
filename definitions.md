@@ -32,7 +32,7 @@
 [025] 2026-07-28 `React.memo` — preventing unnecessary re-renders - https://chatgpt.com/c/6a68a752-e79c-83e9-a142-4641bb32fe56
 [026] 2026-07-29 `useMemo` and `useCallback` trade-offs - https://chatgpt.com/c/6a6a332e-4aa8-83e9-9f7e-ffb561e106ea
 [027] 2026-07-31 Lazy loading with `React.lazy` and `Suspense` - https://chatgpt.com/c/6a6ca5ab-e1f4-83e9-9b6f-20be91dfe7ab
-- Code splitting at the route and component level
+[028] 2026-08-03 Code splitting at the route and component level - https://chatgpt.com/c/6a709c18-1374-83e9-ab9c-7cbef5f3ef46
 - Virtualization / windowing (e.g., react-window, react-virtual)
 - Avoiding prop drilling via context or composition
 - Profiler API and React DevTools Profiler
