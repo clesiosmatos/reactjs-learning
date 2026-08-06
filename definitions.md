@@ -34,7 +34,7 @@
 [027] 2026-07-31 Lazy loading with `React.lazy` and `Suspense` - https://chatgpt.com/c/6a6ca5ab-e1f4-83e9-9b6f-20be91dfe7ab
 [028] 2026-08-03 Code splitting at the route and component level - https://chatgpt.com/c/6a709c18-1374-83e9-ab9c-7cbef5f3ef46
 [029] 2026-08-04 Virtualization / windowing (e.g., react-window, react-virtual) - https://chatgpt.com/c/6a7222a3-9f50-83e9-89c5-421ac3ef1059
-- Avoiding prop drilling via context or composition
+[030] 2026-08-06 Avoiding prop drilling via context or composition - https://chatgpt.com/c/6a748e5d-1df4-83e9-8ba5-1d2675149faa
 - Profiler API and React DevTools Profiler
 - Concurrent features: transitions and deferred values
 - Batched state updates (React 18 automatic batching)
