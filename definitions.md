@@ -37,7 +37,7 @@
 [030] 2026-08-06 Avoiding prop drilling via context or composition - https://chatgpt.com/c/6a748e5d-1df4-83e9-8ba5-1d2675149faa
 [031] 2026-08-08 Profiler API and React DevTools Profiler - https://chatgpt.com/c/6a776138-f59c-83e9-ae9e-22a36bdb94c6
 [032] 2026-08-11 Concurrent features: transitions and deferred values - https://chatgpt.com/c/6a7b29c6-ce5c-83e9-8bd8-e84cc2423211
-- Batched state updates (React 18 automatic batching)
+[033] 2026-08-12 Batched state updates (React 18 automatic batching) - https://chatgpt.com/c/6a7c7011-ca10-83e9-b2b8-9007784c56fd
 
 ## State Management
 - Local state vs lifted state vs global state
