@@ -40,7 +40,7 @@
 [033] 2026-08-12 Batched state updates (React 18 automatic batching) - https://chatgpt.com/c/6a7c7011-ca10-83e9-b2b8-9007784c56fd
 
 ## State Management
-- Local state vs lifted state vs global state
+[034] 2026-08-13 Local state vs lifted state vs global state - https://chatgpt.com/c/6a7df9d0-5908-83e9-b6a6-eb16704cda55
 - Context API patterns and limitations
 - Redux Toolkit (slices, thunks, RTK Query)
 - Zustand / Jotai / Recoil (atomic state models)
