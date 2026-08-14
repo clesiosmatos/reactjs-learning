@@ -41,7 +41,7 @@
 
 ## State Management
 [034] 2026-08-13 Local state vs lifted state vs global state - https://chatgpt.com/c/6a7df9d0-5908-83e9-b6a6-eb16704cda55
-- Context API patterns and limitations
+[035] 2026-08-14 Context API patterns and limitations - https://chatgpt.com/c/6a7f09d5-5b30-83e9-aab7-e004d249c916
 - Redux Toolkit (slices, thunks, RTK Query)
 - Zustand / Jotai / Recoil (atomic state models)
 - React Query / TanStack Query (server state)
