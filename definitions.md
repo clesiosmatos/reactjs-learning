@@ -44,7 +44,7 @@
 [035] 2026-08-14 Context API patterns and limitations - https://chatgpt.com/c/6a7f09d5-5b30-83e9-aab7-e004d249c916
 [036] 2026-08-15 Redux Toolkit (slices, thunks, RTK Query) - https://chatgpt.com/c/6a80663d-ca0c-83e9-8b42-9e945e9dea37
 [037] 2026-08-17 Zustand / Jotai / Recoil (atomic state models) - https://chatgpt.com/c/6a8311b6-d54c-83e9-903c-e3a92d12a2ea
-- React Query / TanStack Query (server state)
+[038] 2026-08-18 React Query / TanStack Query (server state) - https://chatgpt.com/c/6a845407-9930-83e9-9d4a-00e0dd9a3b45
 - URL as state (react-router search params)
 - When NOT to use global state
 
