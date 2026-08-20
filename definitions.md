@@ -46,7 +46,7 @@
 [037] 2026-08-17 Zustand / Jotai / Recoil (atomic state models) - https://chatgpt.com/c/6a8311b6-d54c-83e9-903c-e3a92d12a2ea
 [038] 2026-08-18 React Query / TanStack Query (server state) - https://chatgpt.com/c/6a845407-9930-83e9-9d4a-00e0dd9a3b45
 [039] 2026-08-19 URL as state (react-router search params) - https://chatgpt.com/c/6a85aacb-128c-83e9-9e28-c4a89724f62d
-- When NOT to use global state
+[040] 2026-08-20 When NOT to use global state - https://chatgpt.com/c/6a86dd1f-8ec4-83e9-86f8-59d136e1c749
 
 ## Routing
 - React Router v6: routes, nested routes, layouts
