@@ -49,7 +49,7 @@
 [040] 2026-08-20 When NOT to use global state - https://chatgpt.com/c/6a86dd1f-8ec4-83e9-86f8-59d136e1c749
 
 ## Routing
-- React Router v6: routes, nested routes, layouts
+[041] 2026-08-21 React Router v6: routes, nested routes, layouts - https://chatgpt.com/c/6a8849a8-cf04-83e9-a484-9348a0f812e4
 - `useNavigate`, `useParams`, `useLocation`, `useSearchParams`
 - Loaders and actions (Data Router API)
 - Protected routes and auth guards
