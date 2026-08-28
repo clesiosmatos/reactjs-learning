@@ -50,10 +50,10 @@
 
 ## Routing
 [041] 2026-08-21 React Router v6: routes, nested routes, layouts - https://chatgpt.com/c/6a8849a8-cf04-83e9-a484-9348a0f812e4
-- `useNavigate`, `useParams`, `useLocation`, `useSearchParams`
-- Loaders and actions (Data Router API)
-- Protected routes and auth guards
-- Lazy-loaded routes with `Suspense`
+[042] 2026-08-25 `useNavigate`, `useParams`, `useLocation`, `useSearchParams` - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6a8c53b6eef6a466d0381e4d
+[043] 2026-08-26 Loaders and actions (Data Router API) - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6a8df6b4a325edcf5092ce77
+[044] 2026-08-27 Protected routes and auth guards - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6a908aa2a325edcf5093003b
+[045] 2026-08-28 Lazy-loaded routes with `Suspense` - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6a91a9dca325edcf50930cb8
 - History API and hash routing
 
 ## Data Fetching
