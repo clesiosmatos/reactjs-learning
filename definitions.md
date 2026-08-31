@@ -54,7 +54,7 @@
 [043] 2026-08-26 Loaders and actions (Data Router API) - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6a8df6b4a325edcf5092ce77
 [044] 2026-08-27 Protected routes and auth guards - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6a908aa2a325edcf5093003b
 [045] 2026-08-28 Lazy-loaded routes with `Suspense` - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6a91a9dca325edcf50930cb8
-- History API and hash routing
+[046] 2026-08-31 History API and hash routing - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6a95948ca325edcf50934013
 
 ## Data Fetching
 - `fetch` inside `useEffect` patterns
