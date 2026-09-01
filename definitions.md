@@ -57,7 +57,7 @@
 [046] 2026-08-31 History API and hash routing - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6a95948ca325edcf50934013
 
 ## Data Fetching
-- `fetch` inside `useEffect` patterns
+[047] 2026-09-01 `fetch` inside `useEffect` patterns - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6a96e378c19e0a02dbe8495c
 - Suspense for data fetching
 - TanStack Query (caching, invalidation, optimistic updates)
 - SWR
