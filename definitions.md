@@ -59,7 +59,7 @@
 ## Data Fetching
 [047] 2026-09-01 `fetch` inside `useEffect` patterns - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6a985dadc19e0a02dbe8554c
 [048] 2026-09-02 Suspense for data fetching - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6a985dfbc19e0a02dbe85589
-- TanStack Query (caching, invalidation, optimistic updates)
+[049] 2026-09-03 TanStack Query (caching, invalidation, optimistic updates) - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6a99c475c19e0a02dbe8610c
 - SWR
 - Server-Sent Events / WebSockets integration
 - Optimistic UI updates
