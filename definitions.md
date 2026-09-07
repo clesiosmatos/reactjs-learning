@@ -61,7 +61,7 @@
 [048] 2026-09-02 Suspense for data fetching - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6a985dfbc19e0a02dbe85589
 [049] 2026-09-03 TanStack Query (caching, invalidation, optimistic updates) - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6a99c475c19e0a02dbe8610c
 [050] 2026-09-04 SWR - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6a9ac3b16e95ba4a581254a7
-- Server-Sent Events / WebSockets integration
+[051] 2026-09-07 Server-Sent Events / WebSockets integration - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6a9ea2e36e95ba4a58126669
 - Optimistic UI updates
 - Error and loading state handling
 
