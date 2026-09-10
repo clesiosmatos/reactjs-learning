@@ -66,7 +66,7 @@
 [053] 2026-09-09 Error and loading state handling - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6aa1a5646e95ba4a58129195
 
 ## Component Patterns
-- Composition over inheritance
+[054] 2026-09-10 Composition over inheritance - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6aa2e64d2093954e2634f091
 - Compound components
 - Render props
 - Higher-Order Components (HOCs) — when to avoid
