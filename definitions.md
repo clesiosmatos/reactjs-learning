@@ -67,7 +67,7 @@
 
 ## Component Patterns
 [054] 2026-09-10 Composition over inheritance - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6aa2e64d2093954e2634f091
-- Compound components
+[055] 2026-09-11 Compound components - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6aa3e1c42093954e2634fbf9
 - Render props
 - Higher-Order Components (HOCs) — when to avoid
 - Controlled / uncontrolled inputs
