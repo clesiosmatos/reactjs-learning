@@ -69,7 +69,7 @@
 [054] 2026-09-10 Composition over inheritance - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6aa2e64d2093954e2634f091
 [055] 2026-09-11 Compound components - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6aa3e1c42093954e2634fbf9
 [056] 2026-09-14 Render props - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6aa7f497c5ceb6409c39d986
-- Higher-Order Components (HOCs) — when to avoid
+[057] 2026-09-15 Higher-Order Components (HOCs) — when to avoid - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6aa958be9a4cc6f808ea1358
 - Controlled / uncontrolled inputs
 - Forwarding refs (`React.forwardRef`)
 - Slot pattern with `children` and named slots
