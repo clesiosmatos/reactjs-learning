@@ -73,7 +73,7 @@
 [058] 2026-09-16 Controlled / uncontrolled inputs - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6aaa99b49a4cc6f808ea2b7c
 [059] 2026-09-21 Forwarding refs (`React.forwardRef`) - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6ab10f659a4cc6f808ea6486
 [060] 2026-09-22 Slot pattern with `children` and named slots - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6ab28bba9a4cc6f808ea8341
-- Headless components
+[061] 2026-09-23 Headless components - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6ab3c90f03db51edace51eee
 - Provider pattern
 
 ## Forms
