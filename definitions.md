@@ -77,7 +77,7 @@
 [062] 2026-09-24 Provider pattern - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6ab51cb803db51edace53d47
 
 ## Forms
-- Controlled inputs and validation
+[063] 2026-09-25 Controlled inputs and validation - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6ab65cfb03db51edace5533b
 - React Hook Form — performance and ergonomics
 - Formik — schema-based validation
 - Zod / Yup for schema validation
