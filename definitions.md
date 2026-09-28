@@ -78,7 +78,7 @@
 
 ## Forms
 [063] 2026-09-25 Controlled inputs and validation - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6ab65cfb03db51edace5533b
-- React Hook Form — performance and ergonomics
+[064] 2026-09-28 React Hook Form — performance and ergonomics - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6abac46403db51edace597e7
 - Formik — schema-based validation
 - Zod / Yup for schema validation
 - File inputs and multi-step forms
