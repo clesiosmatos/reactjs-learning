@@ -80,7 +80,7 @@
 [063] 2026-09-25 Controlled inputs and validation - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6ab65cfb03db51edace5533b
 [064] 2026-09-28 React Hook Form — performance and ergonomics - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6abac46403db51edace597e7
 [065] 2026-09-30 Formik — schema-based validation - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6abd09cb03db51edace5bbb5
-- Zod / Yup for schema validation
+[066] 2026-10-01 Zod / Yup for schema validation - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6abe658b03db51edace5d10b
 - File inputs and multi-step forms
 - Accessibility in forms (labels, ARIA, error messages)
 
