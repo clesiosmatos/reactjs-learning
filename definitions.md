@@ -81,7 +81,7 @@
 [064] 2026-09-28 React Hook Form — performance and ergonomics - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6abac46403db51edace597e7
 [065] 2026-09-30 Formik — schema-based validation - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6abd09cb03db51edace5bbb5
 [066] 2026-10-01 Zod / Yup for schema validation - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6abe658b03db51edace5d10b
-- File inputs and multi-step forms
+[067] 2026-10-03 File inputs and multi-step forms - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6ac13eacb8fb87e13f710e9b
 - Accessibility in forms (labels, ARIA, error messages)
 
 ## Styling Approaches
