@@ -85,7 +85,7 @@
 [068] 2026-10-05 Accessibility in forms (labels, ARIA, error messages) - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6ac3aae3b8fb87e13f7135c2
 
 ## Styling Approaches
-- CSS Modules
+[069] 2026-10-07 CSS Modules - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6ac64acbb8fb87e13f71551f
 - CSS-in-JS (styled-components, Emotion)
 - Tailwind CSS with React
 - CSS custom properties and theming
