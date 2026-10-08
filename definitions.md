@@ -86,7 +86,7 @@
 
 ## Styling Approaches
 [069] 2026-10-07 CSS Modules - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6ac64acbb8fb87e13f71551f
-- CSS-in-JS (styled-components, Emotion)
+[070] 2026-10-08 CSS-in-JS (styled-components, Emotion) - https://upmindy.com/studies/6a8c539beef6a466d0381de6/module/6ac796b9b8fb87e13f716876
 - Tailwind CSS with React
 - CSS custom properties and theming
 - `clsx` / `classnames` utility
